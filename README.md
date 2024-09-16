@@ -16,3 +16,17 @@ My Flutter App Screenshots
 ![Screenshot_20240916-165504](https://github.com/user-attachments/assets/d477fe02-c171-4529-b785-d7ea46659c2f)
 
 2) House and Job Mobile Application at Sinfoniac Music
+
+
+3) Flutter Flow AI for Good Hackaton I was a part of team
+   -Nuru from Ethiopia
+   -Thomas Wosen from United State
+   -Abenezer from United state
+   -Helen from United State
+
+https://github.com/user-attachments/assets/d5c325d2-6a52-42b8-abd8-4ef046cdcbe8
+
+
+  
+
+   
