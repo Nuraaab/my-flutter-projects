@@ -17,6 +17,29 @@ My Flutter App Screenshots
 
 2) House and Job Mobile Application at Sinfoniac Music
 
+![photo_2024-09-16_19-46-41](https://github.com/user-attachments/assets/92438749-3c61-4a80-b5eb-33fae9deb344)
+![photo_2024-09-16_19-46-46](https://github.com/user-attachments/assets/bde7060a-97d8-4772-b49b-1ba3fc6ecd8a)
+![photo_2024-09-16_19-46-51](https://github.com/user-attachments/assets/46fa37ff-79f0-4033-af19-0a3eda4bf2ca)
+![photo_2024-09-16_19-47-02](https://github.com/user-attachments/assets/8f580932-a0b7-47c5-9da1-85129b62ca0e)
+![photo_2024-09-16_19-47-08](https://github.com/user-attachments/assets/98e4922c-a15a-4201-8ea2-dd37f1f3f1b2)
+![photo_2024-09-16_19-47-15](https://github.com/user-attachments/assets/1d751e19-330c-49e6-ae73-25958760d51a)
+![photo_2024-09-16_19-47-20](https://github.com/user-attachments/assets/c514f08e-693d-445d-aa98-54dcf588a790)
+![photo_2024-09-16_19-47-26](https://github.com/user-attachments/assets/9dc179be-cb8c-43c5-894b-b359ac1c0374)
+![photo_2024-09-16_19-47-32](https://github.com/user-attachments/assets/7a26b869-ef01-493a-9e08-2e83607aed83)
+![photo_2024-09-16_19-47-38](https://github.com/user-attachments/assets/714260b2-6509-4a5b-b25b-5f682c0fa868)
+![photo_2024-09-16_19-47-44](https://github.com/user-attachments/assets/78580adc-5ab4-4226-ba73-5013e2a0aae8)
+![Screenshot_20240424-234222](https://github.com/user-attachments/assets/b74d5abd-4bd7-43cb-b15f-6399f82c4fe0)
+![photo_2024-09-16_19-45-14](https://github.com/user-attachments/assets/1bc3329b-cdbc-4a27-a005-aaea0edac891)
+![photo_2024-09-16_19-45-19](https://github.com/user-attachments/assets/a1df8a09-387b-43cf-9b2b-5d32f44f6353)
+![photo_2024-09-16_19-45-25](https://github.com/user-attachments/assets/0bd70c2d-5a61-4f39-bdd9-bbb63051add6)
+![photo_2024-09-16_19-45-31](https://github.com/user-attachments/assets/7adb41a6-9f2f-4d27-b193-eaf8b970ccb7)
+![photo_2024-09-16_19-45-38](https://github.com/user-attachments/assets/5801044d-eb2a-421a-83be-4de600455486)
+![photo_2024-09-16_19-45-44](https://github.com/user-attachments/assets/aa746622-09cc-499f-986b-0c28e495b4bf)
+![photo_2024-09-16_19-46-05](https://github.com/user-attachments/assets/a21efc4b-b120-4226-aa45-97819314f071)
+![photo_2024-09-16_19-46-17](https://github.com/user-attachments/assets/b321581d-c952-4868-83f8-5b81836829e5)
+![photo_2024-09-16_19-46-23](https://github.com/user-attachments/assets/d2493625-928a-4851-9c6e-f593b52cd547)
+![photo_2024-09-16_19-46-29](https://github.com/user-attachments/assets/efac2531-21da-438c-8906-e9ed4bbb16ff)
+![photo_2024-09-16_19-46-36](https://github.com/user-attachments/assets/a62d1186-bbb9-4dd9-9e03-a18c0aec99ef)
 
 3) Flutter Flow AI for Good Hackaton I was a part of team
    -Nuru from Ethiopia
